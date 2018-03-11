@@ -1,8 +1,12 @@
 {
   "name": "gitclean",
   "version": "1.0.0",
-  "description": "remove pluses and minuses from git files, that you accidentally copy",
+  "description":
+    "remove pluses and minuses from git files, that you accidentally copy",
   "main": "index.js",
+  "bin": {
+    "gitclean": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
