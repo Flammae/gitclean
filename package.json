@@ -1,5 +1,5 @@
 {
-  "name": "gitclean",
+  "name": "@beqa/gitclean",
   "version": "1.0.0",
   "description":
     "remove pluses and minuses from git files, that you accidentally copy",
